@@ -49,7 +49,7 @@ public class Main2Activity extends AppCompatActivity {
 
         allCommand = new AllCommand();
 
-        allCommand.SaveStringShare(Main2Activity.this,allCommand.SHARE_URL,"http://ios.sktrue.com/");
+        allCommand.SaveStringShare(Main2Activity.this,allCommand.SHARE_URL,"");
 
         fab = findViewById(R.id.fab);
         lnMenu1 = findViewById(R.id.lnMenu1);
